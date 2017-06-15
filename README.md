@@ -19,9 +19,9 @@ Internet oriented design and programming course materials and resolutions
 * Exercise: http://facultaddeingenieria.github.io/dpoi/practice/js++
 * Hint: https://github.com/FacultadDeIngenieria/dpoi-hints/tree/dpoi-tp4
 
-## Submit your results
+## Fork repository and publish your results
 
-Push your results on a branch following {user}-{practice} naming convention. Eg: **max.mule-tp3**
+Fork this repository and push your results on a branch following {user}-{practice} naming convention. Eg: **max.mule-tp3**
 
 ### Starting branches with previous work
 Eg:
