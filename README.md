@@ -1,4 +1,4 @@
-# DPOI 2
+# DPOI
 Internet oriented design and programming course materials and resolutions
 
 ## Practices
@@ -29,3 +29,4 @@ If you are Max the Mule and want to start a branch for your **practice 3** based
 ```bash
 git checkout -b max.mule-tp3 dpoi-tp2
 ```
+ 
