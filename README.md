@@ -1,4 +1,4 @@
-# DPOI
+# DPOI 2
 Internet oriented design and programming course materials and resolutions
 
 ## Practices
